@@ -1,0 +1,58 @@
+/* 
+Theme Name:		 Divi-child
+Theme URI:		 http://childtheme-generator.com/
+Description:	 Divi-child is a child theme of Divi, created by ChildTheme-Generator.com
+Author:			 Almas fatima
+Author URI:		 http://childtheme-generator.com/
+Template:		 Divi
+Version:		 1.0.0
+Text Domain:	 divi-child
+*/
+
+
+/*
+    Add your custom styles here
+*/
+.et_header_style_left #et-top-navigation {
+    float : left;
+}
+#et_search_icon {
+    float : right;
+    
+}
+
+#main-content .et_pb_slider .et_pb_slide_0.et_pb_slide .et_pb_slide_description .et_pb_slide_title {
+    position : relative;
+    right : 29%;
+}
+.et_pb_fullwidth_slider_0.et_pb_slider p
+ {
+    position: relative;
+    right: 29%;
+    margin: 3%;
+    width :51%;
+}
+body #page-container .et_pb_slider .et_pb_slide_0.et_pb_slide .et_pb_more_button.et_pb_button {
+    position : relative;
+    right : 29%;
+
+}
+
+.et_pb_slider .et_pb_slide_1.et_pb_slide .et_pb_slide_description .et_pb_slide_title {
+    position : relative;
+    right : 29%;
+}
+body #page-container .et_pb_slider .et_pb_slide_1.et_pb_slide .et_pb_more_button.et_pb_button {
+    position : relative;
+    right : 29%;
+
+}
+body #page-container .et_pb_slider .et_pb_slide_2.et_pb_slide .et_pb_more_button.et_pb_button {
+    position: relative;
+    right :29%;
+
+}
+.et_pb_slider .et_pb_slide_2.et_pb_slide .et_pb_slide_description .et_pb_slide_title {
+    position : relative;
+    right : 29%;
+}
